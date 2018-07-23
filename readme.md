@@ -2,11 +2,11 @@
 
 ## Javascript related
 -   [Javascript fundamentals before learning React 🐧](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
--   [Does it mutate? 🐧] (https://doesitmutate.xyz/)
+-   [Does it mutate? 🐧](https://doesitmutate.xyz/)
 
 ## React related
 -   [React myths or facts? 🐧](https://reactpaths.com/react-myths-or-facts-7d82aef51b01)
--   [A quick intro to React’s props.children 🐧] (https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891)
+-   [A quick intro to React's props.children 🐧](https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891)
 
 ## State Management
 -   [Redux vs MobX - an attempt to dissolve the confussion 🐧](https://www.robinwieruch.de/redux-mobx-confusion/)
