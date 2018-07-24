@@ -3,6 +3,7 @@
 ## Javascript related
 -   [Javascript fundamentals before learning React 🐧](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
 -   [Does it mutate? 🐧](https://doesitmutate.xyz/)
+-   [Javascript Reactivity explanation 🐧](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
 
 ## React related
 -   [React myths or facts? 🐧](https://reactpaths.com/react-myths-or-facts-7d82aef51b01)
