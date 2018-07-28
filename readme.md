@@ -4,6 +4,8 @@
 -   [Javascript fundamentals before learning React 🐧](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/)
 -   [Does it mutate? 🐧](https://doesitmutate.xyz/)
 -   [Javascript Reactivity explanation 🐧](https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d)
+-   [Understading JS Objects 🐧](https://blog.halolabs.io/understanding-javascript-objects-d31cd24ca60f)
+-   [Spread and rest operator in JS 🐧](http://www.snappyjs.com/2018/03/28/cheatsheet-object-rest-spread-in-javascript/)
 
 ## React related
 -   [React myths or facts? 🐧](https://reactpaths.com/react-myths-or-facts-7d82aef51b01)
@@ -20,6 +22,9 @@
 ## Typescript
 -   [Types in real life 🐧](https://speakerdeck.com/sibelius/types-in-real-life)
 -   [Typescript type notation 🐧](http://2ality.com/2018/04/type-notation-typescript.html)
+
+## Unit Testing
+-   [Understanding Jest mocks 🐧](https://medium.com/@rickhanlonii/understanding-jest-mocks-f0046c68e53c)
 
 ## Cheatsheets
 -   [React Typescript 🐧](https://github.com/sw-yx/react-typescript-cheatsheet)
