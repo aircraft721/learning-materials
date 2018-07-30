@@ -12,6 +12,7 @@
 -   [A quick intro to React's props.children 🐧](https://codeburst.io/a-quick-intro-to-reacts-props-children-cb3d2fce4891)
 -   [Render props pattern in React 🐧](https://engineering.dollarshaveclub.com/learn-render-props-by-example-da3e2524dd2e)
 -   [Deep dive into React children 🐧](https://mxstbr.blog/2017/02/react-children-deepdive/)
+-   [Differences between React and Vue 🐧](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)
 
 ## State Management
 -   [Redux vs MobX - an attempt to dissolve the confussion 🐧](https://www.robinwieruch.de/redux-mobx-confusion/)
