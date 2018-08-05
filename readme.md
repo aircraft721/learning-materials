@@ -7,6 +7,8 @@
 -   [Understading JS Objects 🐧](https://blog.halolabs.io/understanding-javascript-objects-d31cd24ca60f/)
 -   [Spread and rest operator in JS 🐧](http://www.snappyjs.com/2018/03/28/cheatsheet-object-rest-spread-in-javascript/)
 -   [Front-end performance checklist 🐧](https://github.com/thedaviddias/Front-End-Performance-Checklist/)
+-   [This one line of Javascript made FT.com 10 times slower 🐧](https://medium.com/ft-product-technology/this-one-line-of-javascript-made-ft-com-10-times-slower-5afb02bfd93f
+)
 
 ## React related
 -   [React myths or facts? 🐧](https://reactpaths.com/react-myths-or-facts-7d82aef51b01)
