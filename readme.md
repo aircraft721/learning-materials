@@ -39,3 +39,6 @@
 ## Machine Learning
 -   [Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome)
 -   [Elements of AI](https://www.elementsofai.com)
+-   [Youtube playlist - Neural networks and machine learning 🐧](https://www.youtube.com/user/shiffman/playlists?shelf_id=16&sort=dd&view=50
+)
+
