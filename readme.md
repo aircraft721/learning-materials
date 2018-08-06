@@ -43,4 +43,4 @@
 -   [Elements of AI](https://www.elementsofai.com)
 -   [Youtube playlist - Neural networks and machine learning 🐧](https://www.youtube.com/user/shiffman/playlists?shelf_id=16&sort=dd&view=50
 )
-
+-   [Machine Learning - Basics](https://brilliant.org/courses/machine-learning/)
