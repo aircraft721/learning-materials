@@ -17,8 +17,7 @@
 -   [Deep dive into React children 🐧](https://mxstbr.blog/2017/02/react-children-deepdive/)
 -   [Differences between React and Vue 🐧](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)
 -   [Infinite scrolling in react using generators 🐧](https://www.slightedgecoder.com/2018/08/11/infinite-scrolling-in-react-using-javascript-generator/)
-
-
+-   [React Children composition patterns 🐧](https://medium.com/@martin_hotell/react-children-composition-patterns-with-typescript-56dfc8923c64)
 
 ## State Management
 -   [Redux vs MobX - an attempt to dissolve the confussion 🐧](https://www.robinwieruch.de/redux-mobx-confusion/)
