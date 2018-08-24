@@ -46,3 +46,4 @@
 -   [Youtube playlist - Neural networks and machine learning 🐧](https://www.youtube.com/user/shiffman/playlists?shelf_id=16&sort=dd&view=50
 )
 -   [Machine Learning - Basics](https://brilliant.org/courses/machine-learning/)
+-   [100 days of ML - Python](https://github.com/Avik-Jain/100-Days-Of-ML-Code/)
