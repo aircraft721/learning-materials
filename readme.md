@@ -20,8 +20,6 @@
 -   [React Children composition patterns 🐧](https://medium.com/@martin_hotell/react-children-composition-patterns-with-typescript-56dfc8923c64)
 -   [Slot Pattern in React 🐧](https://daveceddia.com/pluggable-slots-in-react-components/)
 
-https://daveceddia.com/pluggable-slots-in-react-components/
-
 ## State Management
 -   [Redux vs MobX - an attempt to dissolve the confussion 🐧](https://www.robinwieruch.de/redux-mobx-confusion/)
 -   [Redux - Documentation 🐧](https://redux.js.org/)
