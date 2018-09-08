@@ -19,6 +19,7 @@
 -   [Infinite scrolling in react using generators 🐧](https://www.slightedgecoder.com/2018/08/11/infinite-scrolling-in-react-using-javascript-generator/)
 -   [React Children composition patterns 🐧](https://medium.com/@martin_hotell/react-children-composition-patterns-with-typescript-56dfc8923c64)
 -   [Slot Pattern in React 🐧](https://daveceddia.com/pluggable-slots-in-react-components/)
+-   [React Portals 🐧](https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202)
 
 ## State Management
 -   [Redux vs MobX - an attempt to dissolve the confussion 🐧](https://www.robinwieruch.de/redux-mobx-confusion/)
