@@ -49,3 +49,4 @@
 )
 -   [Machine Learning - Basics](https://brilliant.org/courses/machine-learning/)
 -   [100 days of ML - Python](https://github.com/Avik-Jain/100-Days-Of-ML-Code/)
+-   [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
